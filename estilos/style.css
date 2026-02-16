@@ -42,12 +42,13 @@ iframe#tela{
 
 }
 section#redes-sociais {
-     text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
     
 }
 
 section#redes-sociais img {
-    max-width: 100%;
     width:80px;
     height: 80px;
     margin: 8px;
