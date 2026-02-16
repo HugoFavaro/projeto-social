@@ -59,21 +59,3 @@ section#redes-sociais img {
 section#redes-sociais img:hover{
     border: 1px solid white;
 }
-
-@media screen and (max-width: 650px) {
-    
-section#redes-sociais {
-    text-align: center;
-    position: relative;
-    margin-top: 650px;
-    display: block;
-    padding-bottom: 20px;
-    
-}
-
-section#redes-sociais img{
-    width: 60px;
-    height: 60px;
-    margin: 5px;
-}
-}
