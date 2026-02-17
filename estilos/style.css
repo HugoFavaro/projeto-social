@@ -21,7 +21,6 @@ main{
 }
 
 #telefone{
-    position: relative;
     height: 627px;
     width: 311px;
     position: absolute;
@@ -46,6 +45,7 @@ section#redes-sociais {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+   
 
     
 }
@@ -53,9 +53,10 @@ section#redes-sociais {
 section#redes-sociais img {
     width:60p;
     height: 60px;
-    margin: 8px;
+    margin: 8px ;
     border-radius: 50%;
-    text-align: ;
+
+    
 
 }
 
